@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#312e81"/><stop offset="1" stop-color="#4338ca"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g fill="none" stroke="#c7d2fe" stroke-width="9" opacity=".3">
+    <circle cx="120" cy="100" r="70"/><circle cx="690" cy="120" r="110"/>
+  </g>
+  <g transform="translate(400 250)" fill="none" stroke="#eef2ff" stroke-width="13" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="-180" y="-90" width="360" height="55" rx="12"/>
+    <rect x="-140" y="35" width="280" height="70" rx="14"/>
+    <path d="M-180 -60h-30v90M180 -60h30v90M-100 105v30M100 105v30"/>
+    <circle cx="-90" cy="-125" r="20"/><circle cx="0" cy="-125" r="20"/><circle cx="90" cy="-125" r="20"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" fill="#e0e7ff" font-family="Inter, sans-serif" font-size="26" font-weight="600" letter-spacing="4">CONFERENCE</text>
+</svg>

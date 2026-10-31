@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#374151"/><stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <g fill="none" stroke="#d1d5db" stroke-width="9" opacity=".25">
+    <circle cx="400" cy="240" r="180"/><circle cx="400" cy="240" r="120"/>
+  </g>
+  <g transform="translate(400 240)" fill="none" stroke="#f9fafb" stroke-width="14" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="-120" y="-90" width="240" height="180" rx="20"/>
+    <path d="M-40 -20h80M0 -60v80"/>
+  </g>
+  <text x="400" y="440" text-anchor="middle" fill="#e5e7eb" font-family="Inter, sans-serif" font-size="26" font-weight="600" letter-spacing="4">RESOURCE</text>
+</svg>
